@@ -1,0 +1,15 @@
+body{font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+     background:aqua;}
+.header_div{
+    background: bisque; color: black;
+}
+.header_div p{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 12px; font-weight: bold;
+}
+.main_div_button{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: bold;
+    margin-top: 30px;
+    width: 130px;
+}
